@@ -9,6 +9,10 @@ header_settings:
   logo_image: 
   logo_width: 200
 
+# Makinng a setting space for the custom name logo
+header_name_settings:
+  name_image: /images/HairRoom.jpg
+
 menu_settings:
   menu_items:
     #- title: 'Projects'
