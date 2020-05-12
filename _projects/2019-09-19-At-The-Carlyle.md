@@ -8,11 +8,9 @@ featured_image: '/images/UES/UES_FrontPage_2.jpeg'
 
 ![](/images/UES/UES_FrontPage.jpeg)
 
-## JA Studios 
+## Yves Durif Salon 
 
-JA studios is a place where people do things. It has a dog
-
-There also have parties. It is nice. It is nice. It is nice. It is nice. It is nice. It is nice. It is nice. It is nice. It is nice. It is nice. It is nice. It is nice. It is nice. It is nice. It is nice. It is nice. It is nice. It is nice. It is nice. It is nice. It is nice. It is nice. It is nice. It is nice. It is nice. It is nice. It is nice. It is nice. It is nice. It is nice. It is nice. It is nice. It is nice. It is nice. 
+Catch me at the Carlyle!
 
 ---
 
