@@ -16,10 +16,6 @@ Catch me at the Carlyle!
 
 ### List of Services 
 
-I do a few things down there. 
-
-
-
 
 | **Quarter Head of Balayage or Highlights** <br> *$150* \| <sub><sup>45 minutes</sup></sub> |
 | **Half Head of Balayage or Highlights** <br> *$200* \| <sub><sup>60 minutes</sup></sub> |
