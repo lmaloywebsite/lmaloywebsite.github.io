@@ -2884,7 +2884,7 @@ p {
 	position: absolute;
 	left: -45px;
 	top: -45px;
-	background-image: url(./../img/straight-quotes.svg);
+	background-image: url(../img/straight-quotes.svg);
 	width: 40px;
 	height: 40px;
 }
@@ -2893,7 +2893,7 @@ p {
 	position: absolute;
 	right: -45px;
 	bottom: -45px;
-	background-image: url(./../img/straight-quotes.svg);
+	background-image: url(../img/straight-quotes.svg);
 	width: 40px;
 	height: 40px;
 	-webkit-transform: rotate(180deg);
@@ -4276,7 +4276,7 @@ body.single-post .footer_bottom.section-padding {
 }
 .main_p .entry_header_small .entry-content blockquote:before {
 	content: "";
-	background: url(./../assets/img/quote-icon.png);
+	background: url(../assets/img/quote-icon.png);
 	position: absolute;
 	top: 5px;
 	left: 20px;

@@ -198,16 +198,16 @@ a:focus {
 	font-family: 'Font Awesome 5';
 	font-style: normal;
 	font-weight: normal;
-	src: url( ./assets/font-awesome/fonts/fa-solid-900.woff2) format( 'woff2' ),
-		 url( ./assets/font-awesome/fonts/fa-solid-900.woff) format( 'woff' );
+	src: url( ./assets/font-awesome/fonts/fa-solid-900.woff2 ) format( 'woff2' ),
+		 url( ./assets/font-awesome/fonts/fa-solid-900.woff ) format( 'woff' );
 }
 
 @font-face {
 	font-family: 'Font Awesome 5 Brands';
 	font-style: normal;
 	font-weight: normal;
-	src: url( ./assets/font-awesome/fonts/fa-brands-400.woff2) format( 'woff2' ),
-		 url( ./assets/font-awesome/fonts/fa-brands-400.woff) format( 'woff' );
+	src: url( ./assets/font-awesome/fonts/fa-brands-400.woff2 ) format( 'woff2' ),
+		 url( ./assets/font-awesome/fonts/fa-brands-400.woff ) format( 'woff' );
 }
 
 
@@ -617,7 +617,7 @@ input[type="url"]:focus {
 }
 
 select {
-	background: #fff url( ./assets/svg/chevron-down.svg) no-repeat;
+	background: #fff url( ./assets/svg/chevron-down.svg ) no-repeat;
 	background-position: calc( 100% - 1.4rem ) center;
 	border-radius: .2rem;
 	border: .1rem solid #e1e1e5;
@@ -1177,14 +1177,14 @@ ul.social-icons li {
 }
 
 .social-icons .search-toggle {
-	background-image: url( ./assets/images/icons/spyglass-gray.svg);
+	background-image: url( ./assets/images/icons/spyglass-gray.svg );
 	background-position: center;
 	background-repeat: no-repeat;
 	background-size: 2rem;
 }
 
 .social-icons .search-toggle.active {
-	background-image: url( ./assets/images/icons/spyglass-white.svg);
+	background-image: url( ./assets/images/icons/spyglass-white.svg );
 }
 
 

@@ -1,14 +1,17 @@
-<!DOCTYPE html>
-<html>
-	<head>
-		<title>Redirecting...</title>
-		<meta http-equiv="refresh" content="0;url=./wp-login.php?redirect_to=http%3A%2F%2Flocalhost%3A8888%2Flaurensiteblog%2Fwp-admin%2Fnetwork%2Fupdate.php&reauth=1">
-	</head>
-	<body>
-		<script type="text/javascript">
-			window.location = "./wp-login.php?redirect_to=http%3A%2F%2Flocalhost%3A8888%2Flaurensiteblog%2Fwp-admin%2Fnetwork%2Fupdate.php&reauth=1";
-		</script>
+<?php
+/**
+ * Update/Install Plugin/Theme network administration panel.
+ *
+ * @package WordPress
+ * @subpackage Multisite
+ * @since 3.1.0
+ */
 
-		<p>You are being redirected to <a href="./wp-login.php?redirect_to=http%3A%2F%2Flocalhost%3A8888%2Flaurensiteblog%2Fwp-admin%2Fnetwork%2Fupdate.php&reauth=1">./wp-login.php?redirect_to=http%3A%2F%2Flocalhost%3A8888%2Flaurensiteblog%2Fwp-admin%2Fnetwork%2Fupdate.php&reauth=1</a></p>
-	</body>
-</html>
+if ( isset( $_GET['action'] ) && in_array( $_GET['action'], array( 'update-selected', 'activate-plugin', 'update-selected-themes' ) ) ) {
+	define( 'IFRAME_REQUEST', true );
+}
+
+/** Load WordPress Administration Bootstrap */
+require_once __DIR__ . '/admin.php';
+
+require ABSPATH . 'wp-admin/update.php';

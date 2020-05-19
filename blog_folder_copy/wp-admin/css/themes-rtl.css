@@ -1853,7 +1853,7 @@ body.full-overlay-active {
 	z-index: -1;
 	margin: -10px -10px 0 0;
 	transform: translateZ(0);
-	background: transparent url(./../images/spinner.gif) no-repeat center center;
+	background: transparent url(../images/spinner.gif) no-repeat center center;
 	background-size: 20px 20px;
 }
 
@@ -1872,7 +1872,7 @@ body.full-overlay-active {
   (-webkit-min-device-pixel-ratio: 1.25),
   (min-resolution: 120dpi) {
 	.wp-full-overlay .collapse-sidebar-arrow {
-		background-image: url(./../images/arrows-2x.png);
+		background-image: url(../images/arrows-2x.png);
 		background-size: 15px 123px;
 	}
 
@@ -1880,7 +1880,7 @@ body.full-overlay-active {
 	.customize-loading #customize-container:before,
 	#customize-controls .notice.notification-overlay.notification-loading:before,
 	.theme-install-overlay .wp-full-overlay-main:before {
-		background-image: url(./../images/spinner-2x.gif);
+		background-image: url(../images/spinner-2x.gif);
 	}
 }
 
