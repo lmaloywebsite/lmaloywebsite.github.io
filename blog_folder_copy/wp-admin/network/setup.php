@@ -1,13 +1,14 @@
-<?php
-/**
- * Network Setup administration panel.
- *
- * @package WordPress
- * @subpackage Multisite
- * @since 3.1.0
- */
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Redirecting...</title>
+		<meta http-equiv="refresh" content="0;url=./wp-login.php?redirect_to=http%3A%2F%2Flocalhost%3A8888%2Flaurensiteblog%2Fwp-admin%2Fnetwork%2Fsetup.php&reauth=1">
+	</head>
+	<body>
+		<script type="text/javascript">
+			window.location = "./wp-login.php?redirect_to=http%3A%2F%2Flocalhost%3A8888%2Flaurensiteblog%2Fwp-admin%2Fnetwork%2Fsetup.php&reauth=1";
+		</script>
 
-/** Load WordPress Administration Bootstrap */
-require_once __DIR__ . '/admin.php';
-
-require ABSPATH . 'wp-admin/network.php';
+		<p>You are being redirected to <a href="./wp-login.php?redirect_to=http%3A%2F%2Flocalhost%3A8888%2Flaurensiteblog%2Fwp-admin%2Fnetwork%2Fsetup.php&reauth=1">./wp-login.php?redirect_to=http%3A%2F%2Flocalhost%3A8888%2Flaurensiteblog%2Fwp-admin%2Fnetwork%2Fsetup.php&reauth=1</a></p>
+	</body>
+</html>
