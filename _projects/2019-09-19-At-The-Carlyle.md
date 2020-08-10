@@ -47,4 +47,4 @@ Catch me at the Carlyle!
 ---
 
 ### Booking a service
-To book a service click [here](https://jastudiosnycbookings.as.me/schedule.php?calendarID=2755344). 
+To book a service click [here](https://www.yvesdurif.com/talent/elizabeth-nrlh2-ckd26). 
