@@ -6,7 +6,7 @@ description: This page is for upper east side.
 featured_image: '/images/UES/UES_FrontPage_2.jpeg'
 ---
 
-![](/images/UES/UES_FrontPage.jpeg)
+![](/images/UES/UES_thecarlyle.jpg)
 
 ## Yves Durif Salon 
 
